@@ -54,3 +54,4 @@ traitlets==4.2.1
 vincent==0.4.4
 widgetsnbextension==1.0.0
 xarray==0.8.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
